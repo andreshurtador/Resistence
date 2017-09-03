@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Resistence</string>
+    <string name="marron">1 Marron +-1%</string>
+    <string name="rojo">2 Rojo +-1%</string>
+    <string name="naranja">3 Naranja</string>
+    <string name="amarillo">4 Amarillo</string>
+    <string name="verde">5 Verde</string>
+    <string name="azul">6 Azul</string>
+    <string name="purpura">7 Purpura</string>
+    <string name="gris">8 Gris</string>
+    <string name="blanco">9 Blanco</string>
+    <string name="masdorado">+-5% Dorado</string>
+    <string name="masgris">+-10% Gris</string>
+    <string name="negro">0 Negro</string>
+    <string name="codigo">Codigo de Colores</string>
+    <string name="resistencia">Resistencia</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
